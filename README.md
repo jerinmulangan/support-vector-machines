@@ -1,5 +1,7 @@
 # MNIST SVM Hyper‑parameter Search & Benchmark On Multiple Kernels
 
+This project is for CS 4375 Machine Learning Course
+
 A simple, reproducible baseline that reaches ~97% accuracy support vector machines
 
 ---
